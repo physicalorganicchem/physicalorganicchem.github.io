@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Chapters
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Chapters
 
 {% for module in site.modules %}
 {{ module }}
