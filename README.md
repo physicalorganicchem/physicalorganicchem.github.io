@@ -13,6 +13,7 @@ seo:
 
 {: .fs-5 .fw-300 }
 The principles of organic chemistry you learned in college are no coincidence. Physical organic chemistry seeks to explain these principles— and the world around us— through the relationship between chemical structures and reactivity.
+
 [Get started now](https://just-the-docs.com){: .btn .btn-purple .mr-2 .fs-5 }
 [Tell me more](https://just-the-docs.com){: .btn .fs-5 }
 
