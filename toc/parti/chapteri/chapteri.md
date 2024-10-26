@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chapter 1
-nav_exclude: false
+parent: parti
 description: A feed containing all of the class announcements.
 ---
 
