@@ -8,9 +8,6 @@ seo:
   name: Physical Organic
 ---
 
-Font size 9
-{: .fs-9 }
-# Learn physical organic chemistry for free.
 {: .fs-9 
 # Learn physical organic chemistry for free.
 }
