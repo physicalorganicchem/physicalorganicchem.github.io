@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Physical Organic
+title: Home
 nav_exclude: false
 permalink: /:path/
 seo:
