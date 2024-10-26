@@ -1,4 +1,3 @@
-
 ---
 title: Chapter 1
 parent: Part I: Thermodynamics
