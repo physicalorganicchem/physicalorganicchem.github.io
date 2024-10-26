@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Part I: Thermodynamics
 parent: Table of Contents
 nav_order: 1
