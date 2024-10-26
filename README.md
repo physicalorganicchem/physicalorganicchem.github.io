@@ -8,11 +8,16 @@ seo:
   name: Physical Organic
 ---
 
-{: .fs-9 }
+{: .fs-8 }
 # Learn physical organic chemistry for free.
 
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 The principles of organic chemistry you learned in college are no coincidence. Physical organic chemistry seeks to explain these principles— and the world around us— through the relationship between chemical structures and reactivity.
+[Get started now](https://just-the-docs.com){: .btn .btn-purple .mr-2 .fs-5 }
+[Tell me more](https://just-the-docs.com){: .btn .fs-5 }
+
+<hr>
+{: hr }
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
