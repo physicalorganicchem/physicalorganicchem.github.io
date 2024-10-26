@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Part I: Thermodynamics
-nav_exclude: false
+parent: toc
 description: A feed containing all of the class announcements.
 ---
 
