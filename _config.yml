@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Physical Organic
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
+tagline: Learn physical organic chemistry for free
+description: Learn why the principles of reactions and world work the way they do.
 author: Theodore Jefferson
 baseurl: '/physicalorganicchem.github.io' # the subpath of your site, e.g. /blog
 url: 'https://physicalorganic.com' # the base hostname & protocol for your site, e.g. http://example.com
