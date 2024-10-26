@@ -9,7 +9,10 @@
 
 // Overrides
 .site-title {
-  font-size:1rem !important;
+  font-weight: bold;
+  background: -webkit-linear-gradient(#8E2DE2, #4A00E0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 code {
