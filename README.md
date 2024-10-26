@@ -17,7 +17,6 @@ The principles of organic chemistry you learned in college are no coincidence. P
 [Tell me more](https://just-the-docs.com){: .btn .fs-5 }
 
 <hr>
-{: hr }
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
