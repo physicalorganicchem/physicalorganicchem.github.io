@@ -20,7 +20,7 @@ The principles of organic chemistry you learned in college are no coincidence. P
 
 <hr>
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Physical Organic is an in-development solo project by Theodore Jefferson. It serves to be a free, open-source resource to help elucidate why the fundamentals of organic chemistry are the way they are, and to do so in an easily accessibly way. Physical organic chemistry classically does this through exploring the relationship between structure and reactivity. As this website is only developed by one person, it will be in progress for the foreseeable future.
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
